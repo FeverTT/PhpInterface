@@ -1,0 +1,2 @@
+# PhpInterface
+interface for wangdiantong.
